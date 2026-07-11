@@ -85,7 +85,7 @@ What It Shows: Attacker attempting to connect to port 4444 (port scanning/attack
 ![Snort Alert Port](Alert-For-Port.png)
 
 11. Wireshark - Ping Analysis
-![Wireshark Ping](WireShark-analysis-ping.png)
+![Wireshark Ping](WireSHark-analysis-ping.png)
 
 12. Wireshark - Port Analysis
 ![Wireshark Port](Wireshark-Analysis-Port.png)

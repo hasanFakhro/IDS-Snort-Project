@@ -52,7 +52,7 @@ Protocol: TCP
 Flags: SYN (Connection attempt)
 What It Shows: Attacker attempting to connect to port 4444 (port scanning/attack).
 
-##  Screenshots
+## 📸 Screenshots
 
 1. Snort Installation
 ![Snort Install](screenshots/snort-install.png)
@@ -66,14 +66,14 @@ What It Shows: Attacker attempting to connect to port 4444 (port scanning/attack
 4. First Rule - Ping
 ![First Rule](screenshots/First-Rule-Ping.png)
 
-5. Second Rule - Port
-![Second Rule](screenshots/Second-Alert-Port.png)
-
-6. Ping from Kali to Ubuntu
+5. Ping from Kali to Ubuntu
 ![Ping Kali to Ubuntu](screenshots/Ping-Kali-To-Ubunto.png)
 
-7. Snort Running - Ping Alert
+6. Snort Running - Ping Alert
 ![Snort Alert Ping](screenshots/Alert-For-Ping-Ubunto.png)
+
+7. Second Rule - Port
+![Second Rule](screenshots/Second-Alert-Port.png)
 
 8. Check Port from Kali
 ![Check Port](screenshots/Check-Port-From-Kali.png)

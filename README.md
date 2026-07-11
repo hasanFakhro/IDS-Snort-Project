@@ -53,28 +53,42 @@ Flags: SYN (Connection attempt)
 What It Shows: Attacker attempting to connect to port 4444 (port scanning/attack).
 
 ##  Screenshots
-(Upload your screenshots below)
 
 1. Snort Installation
-![Snort Install](screenshots/snort-install.png)
+![Snort Install](snort-install.png)
 
-2. Local Rules File
-![Local Rules](screenshots/local-rules.png)
+2. Setting HOME_NET
+![Setting HOME_NET](setting-homenet.png)
 
-3. Snort Running (IDS Mode)
-![Snort Running](screenshots/snort-running.png)
+3. Local Rules File
+![Local Rules](Set-Rule-File.png)
 
-4. Attack from Kali
-![Kali Attack](screenshots/kali-attack.png)
+4. First Rule - Ping
+![First Rule](First-Rule-Ping.png)
 
-5. Snort Alert Triggered
-![Snort Alert](screenshots/snort-alert.png)
+5. Second Rule - Port
+![Second Rule](Second-Alert-Port.png)
 
-6. Wireshark - ICMP Packets
-![Wireshark ICMP](screenshots/wireshark-icmp.png)
+6. Install Wireshark
+![Install Wireshark](Install-WireShark.png)
 
-7. Wireshark - Port 4444 SYN
-![Wireshark Port 4444](screenshots/wireshark-port4444.png)
+7. Ping from Kali to Ubuntu
+![Ping Kali to Ubuntu](Ping-Kali-To-Ubunto.png)
+
+8. Check Port from Kali
+![Check Port](Check-Port-From-Kali.png)
+
+9. Snort Running - Ping Alert
+![Snort Alert Ping](Alert-For-Ping-Ubunto.png)
+
+10. Snort Running - Port Alert
+![Snort Alert Port](Alert-For-Port.png)
+
+11. Wireshark - Ping Analysis
+![Wireshark Ping](WireShark-analysis-ping.png)
+
+12. Wireshark - Port Analysis
+![Wireshark Port](Wireshark-Analysis-Port.png)
 
 
 
